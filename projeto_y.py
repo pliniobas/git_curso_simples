@@ -5,3 +5,4 @@ import funcao
 
 df = pd.DataFrame()
 
+print("qualquer coisa")
